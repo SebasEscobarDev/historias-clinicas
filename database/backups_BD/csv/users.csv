@@ -1,0 +1,5 @@
+"id","name","email","email_verified_at","password","remember_token","created_at","updated_at"
+"1","Super Administrador","sebas@admin.com",NULL,"$2y$10$OsA2YVGjdhviDKOnWZAO5eZUS9sOcrOrY8Keys0jx5AA7BdEu2qW6",NULL,"2018-10-29 17:27:03","2019-10-23 22:43:29"
+"2","-","-",NULL,"$2y$10$/Tk.Y8z1eq8/M1hQvZMyNOzZ6yDbbLMiRKvgVrK/gEOKBn0Sp1BNu",NULL,"2019-01-15 12:20:26","2019-01-15 12:20:26"
+"3","Sub Administrator","correo@sebas.com",NULL,"$2y$10$/qy5lSEhtJynjMQsN2w8TuVxVb3cPIl6JtyIOQcPxZX6aV6bXxoRW",NULL,"2019-07-04 12:38:50","2019-10-23 22:37:22"
+"4","Third Admin","corre@corr.com",NULL,"$2y$10$5z6dqmwoOvGCHPwsNRMYDuXU5Pxe94TdItCDmHTyjSIU5mS5XodBq",NULL,"2019-07-04 12:40:46","2019-10-23 22:37:11"

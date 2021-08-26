@@ -1,0 +1,4 @@
+"id","historia_id","ingreso","egreso","relacionado_1","relacionado_2","impresion_dx","notas_privadas","tratamiento","observaciones","created_at","updated_at"
+"1","1","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2019-02-01 01:33:57","2019-02-01 01:33:57"
+"2","2","1","2","3","3","Desc Impresion dx","desc Notas Privadas",NULL,"Desc Observaciones","2019-10-09 12:02:42","2019-10-09 12:02:42"
+"3","3","2","2","2","1","imp dx","not priva",NULL,"1","2020-01-02 09:35:51","2020-01-02 09:35:51"

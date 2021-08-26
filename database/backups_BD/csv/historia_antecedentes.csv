@@ -1,0 +1,4 @@
+"id","historia_id","motivo_consulta","enfermedad_actual","antecedentes_alergicos","antecedentes_personales","antecedentes_familiares","af_enfermedad_mental","created_at","updated_at"
+"1","1","Motivo cons","enfer actual","ac alergicos","Ac `perso","ac familiares","ac enf mental","2019-02-01 01:33:57","2019-02-01 01:33:57"
+"2","2","Desc motivo cons","desc ac enferm actual","desc ac alergicos","desc ac perso","desc ac familiares","desc ac familiares ef mental","2019-10-09 12:02:41","2019-10-09 12:02:42"
+"3","3","motivo consulta","enf acyual","acc alergicos","antecedentes personales","antec familairers","acc enfermedad mental","2020-01-02 09:35:51","2020-01-02 09:35:51"

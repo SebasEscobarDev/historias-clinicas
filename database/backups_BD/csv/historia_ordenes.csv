@@ -1,0 +1,2 @@
+"id","historia_id","td","formula","fecha","entidad","profesional_medico","ac_alergicos","medicamentos","created_at","updated_at"
+"1","1","1","1","2020-01-10","1","1","[{""medicamento_id"":""2"",""codigo_cum"":""C01CA24"",""nombre_far"":""*ADRENALINA AMP"",""presentacion"":""INY"",""cantidad"":""4"",""dosis"":""20 mg"",""dias"":""20 d\u00edas""}]","2020-01-10 11:51:51","2020-01-10 11:51:51"

@@ -1,0 +1,27 @@
+*table->historias
+	ACTUALIZAR METODOS Y CONTROLADORES DOS CAMPOS REMOVIDOS DE LA TABLA, RECUPERAR INFORMACIÓN DE LA FECHA DE CREACIÓN "created_at"
+*table->evolucion 
+	Actualizar metodos y controaldores, "entidad" renombrado a "entidad_id"
+*table->examenes
+	
+*table->incapacidades
+
+*table->ordenes
+	Removido ac_alergicos 
+
+
+prefijo historia_ renombrado en todas las tablas
+
+····TABLAS····
+profesional_medico
+· RENOMBRADO POR ·
+medico_especialista_id
+
+entidad
+· RENOMBRADO POR ·
+entidad_id
+
+TABLA 
+referencia
+· RENOMBRADO POR ·
+referencias

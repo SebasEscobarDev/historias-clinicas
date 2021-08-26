@@ -1,0 +1,4 @@
+"id","paciente_id","entidad","profesional_medico","acompanante","parentesco","telefono","activo","f_egreso","created_at","updated_at"
+"1","2","1","1","Maria Luisa Cardona","Abuelo","3134141111","1",NULL,"2019-01-15 12:10:51","2019-10-23 23:25:42"
+"2","27",1,"1",Romero Lopéz","Tío","311","1",NULL,"2019-10-09 12:02:41","2019-10-23 23:26:02"
+"3","4",1,"1","el perro","amigo","310310310","1",NULL,"2020-01-02 09:35:51","2020-01-02 09:38:38"
